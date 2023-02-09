@@ -1,4 +1,4 @@
-/*Design a vehicle factory system which has to produce different
+/*Abstract Factory Pattern: Design a vehicle factory system which has to produce different
 types of cars like orinary and luxury cars and shows prices of that 
 according to users choices of cars. */
 
